@@ -1,0 +1,42 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/fe-challenge/dist
+/fe-challenge/tmp
+/fe-challenge/out-tsc
+
+# dependencies
+/fe-challenge/node_modules
+
+# IDEs and editors
+/fe-challenge/.idea
+/fe-challenge/.project
+/fe-challenge/.classpath
+/fe-challenge/.c9/
+/fe-challenge/*.launch
+/fe-challenge/.settings/
+/fe-challenge/*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/fe-challenge/.sass-cache
+/fe-challenge/connect.lock
+/fe-challenge/coverage
+/fe-challenge/libpeerconnection.log
+/fe-challenge/npm-debug.log
+/fe-challenge/yarn-error.log
+/fe-challenge/testem.log
+/fe-challenge/typings
+
+# System Files
+/fe-challenge/.DS_Store
+/fe-challenge/Thumbs.db
+
+# SRV Files
+/srv/config.php
